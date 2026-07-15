@@ -1,4 +1,4 @@
-# companion-module-[replace with module name]
+# companion-module-lindy-38359-matrix
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
 
